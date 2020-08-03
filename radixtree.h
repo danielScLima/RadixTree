@@ -66,7 +66,10 @@ public:
      */
     RadixNode* getRootNode();
 
-
+    /*!
+     * \brief cleanTree
+     */
+    void cleanTree();
 private:
     struct RadixNode* root = nullptr;
 

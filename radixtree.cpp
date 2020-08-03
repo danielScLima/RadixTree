@@ -14,10 +14,16 @@ RadixTree::RadixTree()
 
 RadixTree::~RadixTree()
 {
+    cleanTree();
+}
+
+void RadixTree::cleanTree()
+{
     if (this->root != nullptr)
     {
         this->root->dealockSubTree();
         delete this->root;
+        root = nullptr;
     }
 }
 
