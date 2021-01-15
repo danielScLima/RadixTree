@@ -1,5 +1,6 @@
 RadixTree
 ====================
+Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/RadixTree.svg?branch=master)](https://www.travis-ci.com/danielScLima/RadixTree)
 
 This repository has a project with the implementation of a RadixTree.
 
