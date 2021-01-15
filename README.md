@@ -1,5 +1,7 @@
 RadixTree
 ====================
+Building with AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/krk5vm3uokf5814k?svg=true)](https://ci.appveyor.com/project/DanielSLima/radixtree)
+
 Building with Travis: [![Build Status](https://www.travis-ci.com/danielScLima/RadixTree.svg?branch=master)](https://www.travis-ci.com/danielScLima/RadixTree)
 
 This repository has a project with the implementation of a RadixTree.
