@@ -1,4 +1,5 @@
 #include "radixnode.h"
+#include <stdexcept>
 
 RadixNode::RadixNode(const std::string& data, RadixNode* father):
     data(data), father(father)
